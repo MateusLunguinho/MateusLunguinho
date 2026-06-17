@@ -1,6 +1,6 @@
 <head>
 <h1>Mateus Lunguinho</h1>
-<h3>Desenvolvedor FullStack e Analista de Dados</h3>
+<h3>Desenvolvedor frontEnd e Analista de Dados</h3>
 </head>
 <body>
 <b>Meu nome é Mateus da Silva Lunguinho, tenho 19 anos e sou Técnico em Desenvolvimento de Sistemas pelo IFMS, atualmente estou cursando Sistemas de Informação pela UFMS.</b><br>
