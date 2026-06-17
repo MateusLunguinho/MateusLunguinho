@@ -4,7 +4,7 @@
 </head>
 <body>
 <b>Meu nome é Mateus da Silva Lunguinho, tenho 19 anos e sou Técnico em Desenvolvimento de Sistemas pelo IFMS, atualmente estou cursando Sistemas de Informação pela UFMS.</b><br>
-<b>Sou apaixonado por programação, buscando sempre oportunidades para trabalhar na área e colocar meu conhecimento em</b> <br>
+<b>Sou apaixonado por programação, buscando sempre oportunidades para trabalhar na área e colocar meu conhecimento em prática</b> <br>
 
 <a href="https://www.linkedin.com/in/mateus-lunguinho-3ab6b934a/" target="_blank">
 <button style="border: 0cm; background-color:transparent">
